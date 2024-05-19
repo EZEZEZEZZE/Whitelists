@@ -1,0 +1,12 @@
+local WhitelistData = {
+    ["6a102b9f151426ad7748c47fef3ed9fa3c6748c356086d853f2b34c3cc8564c9"] = {
+        tags = {
+            {
+                text = "Xylex",
+                color = Color3.fromRGB(255, 255, 255)
+            }
+        }
+    },
+}
+
+return WhitelistData
